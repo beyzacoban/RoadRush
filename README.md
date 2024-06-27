@@ -21,9 +21,7 @@ Picture of Level 3
 It is seen that the cars collide an disappear after the collision, increasing the crash count.
 
 ![image](https://github.com/beyzacoban/RoadRush/assets/158472675/90fcbd61-04de-42c0-a732-f51bb77cbf69) 
-Picture of Level 4
 ![image](https://github.com/beyzacoban/RoadRush/assets/158472675/8d3b0b11-3807-41fb-b6e1-5e4168727bba)
-Picture of Level 5
 
 
 
