@@ -23,6 +23,18 @@ It is seen that the cars collide an disappear after the collision, increasing th
 ![image](https://github.com/beyzacoban/RoadRush/assets/158472675/90fcbd61-04de-42c0-a732-f51bb77cbf69) 
 ![image](https://github.com/beyzacoban/RoadRush/assets/158472675/8d3b0b11-3807-41fb-b6e1-5e4168727bba)
 
+![image](https://github.com/beyzacoban/RoadRush/assets/158472675/53f8a792-2246-4ee6-9f68-faaba4360249)
+Game Over Screen
+
+This screen appears when the maximum number of accidents is reached. You can exit this screen by using the exit button.
+
+![image](https://github.com/beyzacoban/RoadRush/assets/158472675/c784497d-1d11-4a8a-9edc-26f29abeb61f)
+Game Winning Screen
+
+This screen appears when you can get the target number of cars to the end of the path. You can exit this screen by using the exit button.
+
+
+
 
 
 
