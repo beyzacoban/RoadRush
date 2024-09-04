@@ -36,6 +36,12 @@ Game Winning Screen
 This screen appears when you can get the target number of cars to the end of the path. You can exit this screen by using the exit button.
 
 
+## Watch the Demo
+
+To get a better understanding of the gameplay and features, watch the demo video on YouTube:
+
+[Watch Demo on YouTube](https://www.youtube.com/watch?v=kq7_l1LtFDU)
+
 
 
 
